@@ -1,0 +1,11 @@
+{
+  "name": "actividad_2_5_node",
+  "version": "1.0.0",
+  "description": "Actividad Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cristobal",
+  "license": "ISC"
+}
